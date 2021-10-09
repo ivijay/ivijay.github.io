@@ -1,2 +1,4 @@
 name: Vijay's blog
 markdown: kramdown
+
+theme: jekyll-theme-tactile
